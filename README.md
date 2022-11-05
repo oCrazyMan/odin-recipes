@@ -1,1 +1,3 @@
 # odin-recipes
+This is my first coding project. I have been studying the odin project courses and my first project is to create a website containing 3 recipes. I chose to pick 3 recipes from my mexican culture which include micheladas, a spicey mix with beer, enchilada verdes, and aguachiles. I will continue to add code as I am learning more throughout the course. I have not learned CSS or Java Scripts. This is the basic html code I have learned. What I have learned this far is the boilerplate template, using Command line, adding links to different pages, adding images, text, and creating unordered/ordered lists. 
+11/5/2022 
